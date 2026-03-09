@@ -73,25 +73,6 @@ Backend Engineer passionate about building scalable APIs, AI-powered systems, an
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔹 Multi Service Booking Platform
-Backend system where providers publish services and customers book them with scheduling, payments, and account management.
-
-### 🔹 AI Agent Platform
-DRF backend providing **AI legal chat and expert appointment scheduling** with JWT authentication and notifications.
-
-### 🔹 Creator Data Analysis System
-Aggregates creator data from multiple platforms and generates **AI-powered insights and analytics reports**.
-
-### 🔹 AI-Powered Mental Health Platform
-Conversational AI platform with transcription, mood tracking, emergency alert system, and subscription control.
-
-### 🔹 Diabetes Prediction System
-Machine learning web application predicting diabetes risk using **Scikit-learn integrated with Django**.
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -104,26 +85,10 @@ Machine learning web application predicting diabetes risk using **Scikit-learn i
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat46&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakhawat46&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sakhawat46&theme=onedark"/>
 </p>
 
 ---
