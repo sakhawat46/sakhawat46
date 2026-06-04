@@ -43,14 +43,9 @@ Backend Engineer passionate about building scalable APIs, AI-powered systems, an
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming and Backend
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp"/>
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask"/>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,django,flask"/>
 </p>
 
 ### 🧠 AI / Data Science
