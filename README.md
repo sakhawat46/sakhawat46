@@ -17,7 +17,7 @@ Backend Engineer passionate about building scalable APIs, AI-powered systems, an
 - 🤖 Working with **AI, Machine Learning, and Data Science**
 - ☁️ Hands-on experience with **AWS, Docker, CI/CD**
 - 📊 Skilled in **Data Analysis, ML Model Deployment**
-- 🎓 MSc in **Computer Science & Engineering (Data Mining)**
+- 🎓 MSc in **Computer Science & Engineering (Data Science)**
 
 ---
 
