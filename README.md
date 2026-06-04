@@ -73,26 +73,6 @@ Backend Engineer passionate about building scalable APIs, AI-powered systems, an
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakhawat46&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhawat46&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakhawat46&theme=tokyo-night"/>
-</p>
-
----
-
 # 👀 Profile Views
 
 <p align="center">
@@ -100,14 +80,3 @@ Backend Engineer passionate about building scalable APIs, AI-powered systems, an
 </p>
 
 ---
-
-# 🔥 Current Focus
-
-- Building **scalable Django REST APIs**
-- Deploying **Machine Learning models into production**
-- Learning **LLM systems & AI agents**
-- Exploring **cloud-native backend architecture**
-
----
-
-⭐️ From [sakhawat46](https://github.com/sakhawat46)
