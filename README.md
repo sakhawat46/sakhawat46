@@ -41,33 +41,6 @@ Backend Engineer passionate about building scalable APIs, AI-powered systems, an
 
 ---
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming and Backend
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,django,flask"/>
-</p>
-
-### 🧠 AI / Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48">
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis"/>
-</p>
-
-### ☁️ DevOps / Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git"/>
-</p>
-
----
-
 # 👀 Profile Views
 
 <p align="center">
